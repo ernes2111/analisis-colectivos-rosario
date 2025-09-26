@@ -1,3 +1,6 @@
+🌐 [Read this in English](README_en.md)
+
+
 # 🚍 Análisis de Colectivos en Rosario
 
 Este repositorio contiene un análisis exploratorio de los datos de frecuencia de colectivos
@@ -43,3 +46,5 @@ cada 5 minutos, registrando posición y tiempo de arribo de las unidades.
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/ernes2111/analisis_colectivos_rosario.git
+
+🌐 [Read this in English](README_en.md)
